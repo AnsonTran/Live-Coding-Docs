@@ -1,5 +1,4 @@
 # Models
-
 ## Member
 + 1 First name
 + 1 Last name

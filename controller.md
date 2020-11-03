@@ -1,5 +1,4 @@
 # Controllers
-
 ## validateService
 * static int    validate(String ID, String password)
 * static int    isStudent(String ID)

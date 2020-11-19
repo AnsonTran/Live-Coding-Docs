@@ -5,6 +5,9 @@
 * static int    isTeacher(String ID)
 
 ## adminService(Permissions)
+* static String createSession(String name)
+* static int    removeSession(String classID)
+
 * static String createClass(String name)
 * static int    removeClass(String classID)
 * static int    hideClass(String classID)

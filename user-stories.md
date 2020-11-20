@@ -1,5 +1,4 @@
 # User Stories
-* As a member, I want to login using my Microsoft account and password
 * As a member, I want to view the classes that I'm a part of
 
 * As a teacher, I want to create assignments for my students to complete
